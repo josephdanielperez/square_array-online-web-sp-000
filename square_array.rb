@@ -3,3 +3,5 @@ def square_array(array)
     number == number * number
   end
 end
+
+square_array
